@@ -6,8 +6,7 @@
 
 <div align="center">
 
-A calm, minimal setup structured for a quiet and focused workflow.<br>
-Designed as a small escape from visual clutter, endless menus, and unnecessary complexity.
+A calm, minimal setup structured for a quiet and focused workflow
 
 </div>
 
