@@ -63,5 +63,5 @@ Utilities
 # ✦ Installation
 
 ```text
-git clone --depth 1 https://github.com/iiovy/Nocturne-vim ~/.config/nvim
+git clone --depth 1 https://github.com/liquescimuss/Nocturne-vim ~/.config/nvim
 nvim
